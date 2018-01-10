@@ -8,4 +8,4 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 Here we try to analyze which factors were more likely to contribute to the death of the passengers and classify who is more likely to survive depending on the features.
 
 ## Purpose
-The purpose of this project was to gain introductory exposure to programmatic data analysis concepts, by analysing the factors that determined whether a passenger survived the Titanic disaster or did not. The project makes heavy use of NumPy, Pandas and Data Visualization Libraries.
+The purpose of this project was to gain introductory exposure to programmatic data analysis concepts, by analysing the factors that determined whether a passenger survived the Titanic disaster or did not. The project makes heavy use of NumPy, Pandas, TFLearn for Neural Network Classifier and Data Visualization Libraries.
